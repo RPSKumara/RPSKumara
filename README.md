@@ -1,15 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif)]()
 
 <h1 align="center">Hi 👋, I'm Roshan Kumara</h1>
 <h3 align="center">A passionate Software Engineer and Full stack developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rpskumara&label=Profile%20views&color=0e75b6&style=flat" alt="rpskumara" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rpskumara&label=Profile%20views&color=0e75b6&style=flat" alt="rpskumara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rpskumara" alt="rpskumara" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [Ceylon Models](https://ceylon-models-dsd.web.app/)
 
