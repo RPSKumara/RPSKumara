@@ -66,7 +66,6 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 20px;"/> 
   </a>
-  <span style="font-size: 50px; margin-left: 20px;">&#8230;</span>
 </p>
 
 ---
